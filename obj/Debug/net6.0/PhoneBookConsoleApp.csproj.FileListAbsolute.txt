@@ -1,0 +1,15 @@
+/home/saint/Desktop/PhoneBookConsoleApp/bin/Debug/net6.0/PhoneBookConsoleApp
+/home/saint/Desktop/PhoneBookConsoleApp/bin/Debug/net6.0/PhoneBookConsoleApp.deps.json
+/home/saint/Desktop/PhoneBookConsoleApp/bin/Debug/net6.0/PhoneBookConsoleApp.runtimeconfig.json
+/home/saint/Desktop/PhoneBookConsoleApp/bin/Debug/net6.0/PhoneBookConsoleApp.dll
+/home/saint/Desktop/PhoneBookConsoleApp/bin/Debug/net6.0/PhoneBookConsoleApp.pdb
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.csproj.AssemblyReference.cache
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.AssemblyInfoInputs.cache
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.AssemblyInfo.cs
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.dll
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/refint/PhoneBookConsoleApp.dll
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.pdb
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/PhoneBookConsoleApp.genruntimeconfig.cache
+/home/saint/Desktop/PhoneBookConsoleApp/obj/Debug/net6.0/ref/PhoneBookConsoleApp.dll
